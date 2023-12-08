@@ -8,6 +8,9 @@
                 "-fdiagnostics-color=always",
                 "-g",
 
+                //Setting language standard
+                "-std=c++20",
+
                 //build
                 "-O2",
                 "-DNDEBUG",

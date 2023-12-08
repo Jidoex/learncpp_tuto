@@ -1,4 +1,5 @@
 {
     "notebook.insertFinalNewline": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "C_Cpp.default.cppStandard": "c++20", //intellisense adapted to c++20
 }
