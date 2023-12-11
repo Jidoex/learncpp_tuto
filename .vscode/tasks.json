@@ -32,7 +32,7 @@
 
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/builds/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
